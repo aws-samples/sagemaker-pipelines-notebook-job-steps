@@ -1,4 +1,4 @@
-## SageMaker Pipelines Notebook Job Step Example
+## [SageMaker Pipelines Notebook Job Step Example](https://aws.amazon.com/blogs/machine-learning/schedule-amazon-sagemaker-notebook-jobs-and-manage-multi-step-notebook-workflows-using-apis/)
 
 In this example we explore using Notebook Job steps to orchestrate ML workflows within SageMaker Pipelines. In this example we specifically build a Pipeline that solves an NLP Text Classification use-case. We use the public SST2 dataset with a BERT Transformers model for Binary Text Classification on sample labels. The notebooks within the repository are listed below to give further clarity on how the example is structured. 
 
